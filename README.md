@@ -3,7 +3,7 @@
 
 * Am creat un directoriu local de lucru in care se va afla fisierul de versionat 
 *utilizind comanda mkdir pentru crearea directorului in linia de comanda a terminalului, iar navigarea prin: cd local-repo.*
- ![1](https://user-images.githubusercontent.com/43058513/52538156-d2a68f80-2d77-11e9-85f7-59a08c779e9f.PNG)
+* ![1](https://user-images.githubusercontent.com/43058513/52538156-d2a68f80-2d77-11e9-85f7-59a08c779e9f.PNG)
 
 * Am initializat repozitorul GIT in acest director prin *git init*
  ![2](https://user-images.githubusercontent.com/43058513/52538183-3a5cda80-2d78-11e9-9e48-1e64a2bfb990.PNG)
